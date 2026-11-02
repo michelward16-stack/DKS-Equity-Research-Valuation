@@ -23,17 +23,11 @@ Solo project for Corporate Finance at Hult International Business School (Decemb
 
 ## Screenshots
 
-![DCF valuation](images/dcf.png)
-*DCF valuation output*
+![Stock summary](images/stock_summary.png)
+*Report cover: recommendation, key stock statistics, price performance and financial summary*
 
-![Scenario analysis](images/scenarios.png)
-*Bull, base and bear scenarios*
-
-![Trading multiples](images/multiples.png)
-*Relative valuation against peers*
-
-![WACC sensitivity](images/wacc.png)
-*Cost of capital and sensitivity analysis*
+![Valuation summary](images/valuation_summary.png)
+*Valuation summary: scenario analysis and price per share from each method*
 
 ## Files
 
